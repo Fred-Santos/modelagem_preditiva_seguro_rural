@@ -52,6 +52,8 @@ cd modelo_seguro_rural
 pip install -r requirements.txt
 ```
 
+## **Tabela** base https://drive.google.com/file/d/17CsmT8jP62Y9xILO7zamlc21xm9G39LG/view?usp=drive_link
+
 ## 📊 Resultados (parciais)
 
 - Primeiros modelos testados apresentaram **baixa acurácia** (R² próximo de zero).  
